@@ -181,7 +181,7 @@ export default function Home({apidata}) {
       <div
         style={{
           width: "70%",
-          border: "1px solid black",
+          // border: "1px solid black",
           "textAlign":"center"
         }}
       >
